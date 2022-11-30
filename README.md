@@ -15,7 +15,7 @@ When we see a new relation, predict if this relation exists in any pair of the e
 * Zero-Shot Both KBC (ZeroB):
 Predict the link for both a newly added relation and a newly added entity. Textual description is necessary for the relations as in ZeroR and entity descriptions are also required in the absence of context.
 
-![alt](example.pdf)
+![alt](example.jpg)
 
 ## Dataset
 Please find the dataset [here](https://github.com/brickee/ZeroKBC/blob/main/ZeroKBC.zip).

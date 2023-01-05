@@ -24,17 +24,14 @@ Please find the dataset [here](https://github.com/brickee/ZeroKBC/blob/main/Zero
 
 ## Citation
 
-If you extend or use this dataset, please cite the paper (to appear).
+If you extend or use this dataset, please cite the [paper](https://arxiv.org/pdf/2212.03091.pdf).
 
 
-<!-- ```text
-@inproceedings{chen-etal-2021-probing,
- author = {Chen, Pei  and Liu, Kang  and Chen, Yubo  and Wang, Taifeng  and Zhao, Jun},
- booktitle = {Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume},
- month = {April},
- pages = {2042--2048},
- publisher = {Association for Computational Linguistics},
- title = {Probing into the Root: A Dataset for Reason Extraction of Structural Events from Financial Documents},
- year = {2021}
+```text
+@article{chen2022zerokbc,
+  title={ZeroKBC: A Comprehensive Benchmark for Zero-Shot Knowledge Base Completion},
+  author={Chen, Pei and Yao, Wenlin and Zhang, Hongming and Pan, Xiaoman and Yu, Dian and Yu, Dong and Chen, Jianshu},
+  journal={arXiv preprint arXiv:2212.03091},
+  year={2022}
 }
-``` -->
+```

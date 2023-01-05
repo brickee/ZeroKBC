@@ -31,7 +31,7 @@ If you extend or use this dataset, please cite the [paper](https://arxiv.org/pdf
 @article{chen2022zerokbc,
   title={ZeroKBC: A Comprehensive Benchmark for Zero-Shot Knowledge Base Completion},
   author={Chen, Pei and Yao, Wenlin and Zhang, Hongming and Pan, Xiaoman and Yu, Dian and Yu, Dong and Chen, Jianshu},
-  journal={arXiv preprint arXiv:2212.03091},
+  journal={International Workshop on Knowledge Graphs of The 22nd IEEE International Conference on Data Mining (ICDM)},
   year={2022}
 }
 ```
